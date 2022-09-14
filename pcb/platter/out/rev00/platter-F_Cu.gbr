@@ -1,0 +1,149 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1-0)*%
+%TF.CreationDate,2022-09-11T14:38:18-04:00*%
+%TF.ProjectId,platter,706c6174-7465-4722-9e6b-696361645f70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1-0)) date 2022-09-11 14:38:18*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%TA.AperFunction,ComponentPad*%
+%ADD10O,2.000000X0.950000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11R,1.300000X0.900000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12HorizOval,0.950000X0.371231X0.371231X-0.371231X-0.371231X0*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13RotRect,1.300000X0.900000X45.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14O,0.950000X2.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD15R,0.900000X1.300000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD16HorizOval,0.950000X-0.371231X0.371231X0.371231X-0.371231X0*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD17RotRect,1.300000X0.900000X135.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J3,*%
+%TO.N,*%
+X18050000Y-66000000D03*
+D11*
+%TO.P,J3,1,Pin_1*%
+%TO.N,/FX_1*%
+X16200000Y-66000000D03*
+%TD*%
+D10*
+%TO.P,J11,*%
+%TO.N,*%
+X107950000Y-66000000D03*
+D11*
+%TO.P,J11,1,Pin_1*%
+%TO.N,/FX_8*%
+X109800000Y-66000000D03*
+%TD*%
+D12*
+%TO.P,J4,*%
+%TO.N,*%
+X29096016Y-92903984D03*
+D13*
+%TO.P,J4,1,Pin_1*%
+%TO.N,/FX_2*%
+X27787868Y-94212132D03*
+%TD*%
+D12*
+%TO.P,J5,*%
+%TO.N,*%
+X33096016Y-96903984D03*
+D13*
+%TO.P,J5,1,Pin_1*%
+%TO.N,/FX_3*%
+X31787868Y-98212132D03*
+%TD*%
+D14*
+%TO.P,J8,*%
+%TO.N,*%
+X66000000Y-108000000D03*
+D15*
+%TO.P,J8,1,Pin_1*%
+%TO.N,/FX_5*%
+X66000000Y-109850000D03*
+%TD*%
+D10*
+%TO.P,J12,*%
+%TO.N,*%
+X107950000Y-60000000D03*
+D11*
+%TO.P,J12,1,Pin_1*%
+%TO.N,/FX_9*%
+X109800000Y-60000000D03*
+%TD*%
+D16*
+%TO.P,J10,*%
+%TO.N,*%
+X96903984Y-92903984D03*
+D17*
+%TO.P,J10,1,Pin_1*%
+%TO.N,/FX_7*%
+X98212132Y-94212132D03*
+%TD*%
+D16*
+%TO.P,J9,*%
+%TO.N,*%
+X92903984Y-96903984D03*
+D17*
+%TO.P,J9,1,Pin_1*%
+%TO.N,/FX_6*%
+X94212132Y-98212132D03*
+%TD*%
+D10*
+%TO.P,J2,*%
+%TO.N,*%
+X18050000Y-60000000D03*
+D11*
+%TO.P,J2,1,Pin_1*%
+%TO.N,/FX_0*%
+X16200000Y-60000000D03*
+%TD*%
+D14*
+%TO.P,J6,*%
+%TO.N,*%
+X60000000Y-108000000D03*
+D15*
+%TO.P,J6,1,Pin_1*%
+%TO.N,/FX_4*%
+X60000000Y-109850000D03*
+%TD*%
+M02*

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "voltavox")(type "KiCad")(uri "/Users/stephen/voltavox/lib/kicad/voltavox.pretty")(options "")(descr ""))
+  (lib (name "FlexyPin")(type "KiCad")(uri "/Users/stephen/voltavox/lib/kicad/flexypin-main/FlexyPin.pretty")(options "")(descr ""))
+)
