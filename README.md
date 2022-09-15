@@ -37,8 +37,8 @@ The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker i
 ### 3D Prints
 | Item | Quantity | Material | Note |
 | ---- | -------- | -------- | ---- |
-| Base | 1 | PLA | Print without supports at 0.2mm layer height, 15% infill or more |
-| Horn-Base-Adapter | 1 | PLA | Print with supports at 0.2mm layer height, 20% infill or more |
-| Needle-Mount | 1 | PETG | Print without supports at 0.2mm layer height, 20% infill or more |
-
+| base | 1 | Wood PLA | Print without supports at 0.2mm layer height, 15% infill or more |
+| horn-base-adapter | 1 | Wood PLA | Print with supports at 0.2mm layer height, 20% infill or more |
+| drawer | 1 | Wood PLA | Print without supports at 0.2mm layer height, 15% infill or more |
+| needle-mount | 1 | PETG | Print without supports at 0.2mm layer height, 20% infill or more |
 
