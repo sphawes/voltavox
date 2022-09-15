@@ -7,7 +7,7 @@ Made primarially from PCBs, you can take a tiny PCB record, place it on the plat
 Voltavox is based heavily on the [Adafruit Audio FX Sound Board](https://www.adafruit.com/product/2217). Using [arturo182](https://github.com/arturo182)'s [FlexyPins](https://lectronz.com/products/flexypin-pack-of-100) and some castellated edges on the record PCBs, each record selectively pulls a different control pin on the Audio FX board to ground, causing a different track to play. 
 The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker inside.
 
-##BOM
+## BOM
 ### Off The Shelf
 | Item | Quantity |
 | ---- | -------- |
@@ -28,11 +28,11 @@ The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker i
 ### PCBs
 | Item | Quantity | Order Instructions | Note |
 | ---- | -------- | ------------------ | ---- |
-| Record PCB | 1+ | 1.6mm PCB, 1oz copper. Gloss Black Soldermask, Lead-Free HASL finish. | Has castellated pads to interface with the FlexyPins. Be sure to include a note to your board shop. | 
-| Platter PCB | 1 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, Lead-Free HASL finish. | - |
-| Needle PCB | 1 | 1.6mm PCB, 1oz copper. Gloss Black Soldermask, Lead-Free HASL finish. | - |
-| Horn Base PCB | 8 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, ENIG gold immersion finish. | Has castellated edges that are used for structural soldering. Be sure to include a note to your board shop.|
-| Horn Edge PCB | 8 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, ENIG gold immersion finish. | Has castellated edges that are used for structural soldering. Be sure to include a note to your board shop.|
+| Record | 1+ | 1.6mm PCB, 1oz copper. Gloss Black Soldermask, Lead-Free HASL finish. | Has castellated pads to interface with the FlexyPins. Be sure to include a note to your board shop. | 
+| Platter | 1 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, Lead-Free HASL finish. | - |
+| Needle | 1 | 1.6mm PCB, 1oz copper. Gloss Black Soldermask, Lead-Free HASL finish. | - |
+| Horn Tier 1 | 8 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, ENIG gold immersion finish. | Has castellated edges that are used for structural soldering. Be sure to include a note to your board shop.|
+| Horn Tier 2 | 8 | 1.6mm PCB, 1oz copper. Matte Black Soldermask, ENIG gold immersion finish. | Has castellated edges that are used for structural soldering. Be sure to include a note to your board shop.|
 
 ### 3D Prints
 | Item | Quantity | Material | Note |
