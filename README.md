@@ -1,10 +1,11 @@
 # Voltavox
-Voltavox is a PCB-based phonograph badge!
+Voltavox is a PCB-based phonograph "badge"!
 
+![](voltavox.jpg)
 
 Made primarially from PCBs, you can take a tiny PCB record, place it on the platter, place the needle on the record, and a song begins to play! Put a different record on, and as expected, you'll get a different song.
 
-Voltavox is based heavily on the [Adafruit Audio FX Sound Board](https://www.adafruit.com/product/2217). Using [arturo182](https://github.com/arturo182)'s [FlexyPins](https://lectronz.com/products/flexypin-pack-of-100) and some castellated edges on the record PCBs, each record selectively pulls a different control pin on the Audio FX board to ground, causing a different track to play. 
+Voltavox is based heavily on the [Adafruit Audio FX Sound Board](https://www.adafruit.com/product/2217). Using [arturo182](https://github.com/arturo182)'s [FlexyPins](https://lectronz.com/products/flexypin-pack-of-100) and some castellated edges on the record PCBs, each record selectively pulls a different control pin on the Audio FX board to ground, choosing a different track. Dropping the needle onto the record completes the circuit and starts playing the audio. 
 The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker inside.
 
 ## BOM
@@ -23,6 +24,7 @@ The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker i
 | [1x4 2.54mm SMT Header](https://www.digikey.com/en/products/detail/metz-connect-usa-inc/PM20204VBNN/12342877) | 1 |
 | [Adhesive-Backed Green Felt](https://amzn.to/3xrK0NY) | 1 |
 | [Dark Wood PLA Filament](https://amzn.to/3QOZQca) | 1 |
+| [Record Label Stickers](https://www.amazon.com/dp/B06VX94JD8)| 1 |
 
 
 ### PCBs
@@ -38,7 +40,7 @@ The horn is also comprised of PCBs soldered edge-to-edge, with a small speaker i
 | Item | Quantity | Material | Note |
 | ---- | -------- | -------- | ---- |
 | base | 1 | Wood PLA | Print without supports at 0.2mm layer height, 15% infill or more |
-| horn-base-adapter | 1 | Wood PLA | Print with supports at 0.2mm layer height, 20% infill or more |
+| horn-base-adapter | 1 | Silver PLA | Print with supports at 0.2mm layer height, 20% infill or more |
 | drawer | 1 | Wood PLA | Print without supports at 0.2mm layer height, 15% infill or more |
 | needle-mount | 1 | PETG | Print without supports at 0.2mm layer height, 20% infill or more |
 
